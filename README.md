@@ -39,15 +39,5 @@ This interactive dashboard offers detailed operational insights into Ajio’s e-
 
 ---
 
-## Repository Structure  
-
-- `/Dashboard` — Tableau workbook (.twbx) or .pdf images of the dashboard  
-- `/Dataset` — Sample mock data (if hosted)  
-- `/README.md` — Project overview and documentation  
-
----
-
-## Author  
-
-Srajan Mishra  
-[LinkedIn Profile](#) | [Tableau Public Profile](#)
+## Project Link
+[Ajio Order Fulfilment & Delivery Dashboard](https://public.tableau.com/app/profile/srajan.mishra/viz/EcommerceDataset_17525263642090/Dashboard1?publish=yes)
